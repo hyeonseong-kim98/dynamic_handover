@@ -1,0 +1,8 @@
+run_robot_cpp/install/
+run_robot_cpp/build/
+run_robot_cpp/log/
+/.cache/
+__pycache__/
+*.py[cod]
+/run_ws/data/tracking_handover/
+/run_robot/data/tracking_handover/
