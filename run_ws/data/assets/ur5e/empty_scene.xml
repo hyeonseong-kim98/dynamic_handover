@@ -1,0 +1,7 @@
+<mujoco model="ur5e scene">
+  <option noslip_iterations="100">
+
+  </option>
+  <include file="../object/dark_sky.xml" />
+</mujoco>
+ 

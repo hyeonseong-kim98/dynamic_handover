@@ -1,0 +1,6 @@
+Wed Sep 25 19:19:18 2024
+WARNING: mju_openResource: unknown file '/home/rilab/dynamic_handover/run_robot/data/assets/ur5e/robot_scene.xml'
+
+Wed Sep 25 19:20:58 2024
+WARNING: mju_openResource: unknown file '/home/rilab/dynamic_handover/run_robot/data/assets/ur5e/robot_scene.xml'
+
